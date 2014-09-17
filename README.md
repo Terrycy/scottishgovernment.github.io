@@ -1,4 +1,4 @@
-scottishgovernment.github.io
+Scottish Government Github Repository
 ============================
 
 Standards and guidlines web site
