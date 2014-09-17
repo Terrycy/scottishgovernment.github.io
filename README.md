@@ -19,9 +19,13 @@ _principles
 _glossary
 
 Once posts are added
-'''
+
 git add --all
+
 git commit -m "Enter a description of the posts you just added"
+
 git pull
+
 git push
-'''
+
+
