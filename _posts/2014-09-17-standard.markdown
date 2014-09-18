@@ -4,12 +4,12 @@ title:  "Standard"
 date:   2014-09-17 14:23:54
 permalink: standard/
 categories: documentation
-summary: The digital standard, setting the bar for digital services.
+summary: The standard, setting the bar for digital services.
 tags: 
 - standard
 ---
 <div class="home">
-  <p>Setting the standard for digital services. The digital standard is a set of requirements that a digital service must implement, unless a specific exception is made.</p>
+  <p>Setting the standard for digital services. The standard is a set of requirements that a digital service must implement, unless a specific exception is made.</p>
   <ol class="post-list">
     {% for post in site.principles %}
       <li>
