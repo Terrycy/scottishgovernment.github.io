@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Standard"
 date:   2014-09-17 14:23:54
 permalink: standard/
@@ -9,6 +9,7 @@ tags:
 - principles
 ---
 <div class="home">
+  <p>test</p>
   <ol class="post-list">
     {% for post in site.principles %}
       <li>
