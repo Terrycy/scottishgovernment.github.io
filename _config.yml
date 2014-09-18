@@ -1,11 +1,11 @@
 # Site settings
-title: Scottish Government Digital
+title: Scottish Government Online Services
 email: OSSD@scotland.gsi.gov.uk
-description: > # This website details the standards and guidloines used by the Scottish Government whilst developing the mygiv.scot web site.
+description: > # This website details the standards and guidelines used by the Scottish Government whilst developing the mygov.scot web site.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://scottishgovernment.github.io/" # the base hostname & protocol for your site
 twitter_username: mygovscot
-github_username:  scottishgov
+github_username:  scottishgovernment
 
 # Build settings
 markdown: kramdown
