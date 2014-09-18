@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Agile"
+date:   2014-09-17 14:23:54
+permalink: standard/agile/ 
+categories: documentation
+summary: Using agile to deliver great digital services
+tags: 
+- agile
+---

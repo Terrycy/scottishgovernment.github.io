@@ -1,5 +1,5 @@
 # Site settings
-title: Handbook
+title: Scottish Government Online Services
 email: ossd@scotland.gsi.gov.uk
 description: We provide standards & guidelines to help organisations build great digital services.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -12,9 +12,9 @@ markdown: kramdown
 
 # Collections
 collections:
-  guidelines:
+  standard:
     output: true
-  principles:
+  guidelines:
     output: true
   glossary:
     output: true        
