@@ -1,7 +1,7 @@
 # Site settings
 title: Scottish Government Online Services
 email: ossd@scotland.gsi.gov.uk
-description: We provide standards & guidelines to help organisations build great digital services.
+description: The digital handbook has been created to deliver clear content and help build digital services that will appear on mygov.scot. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://scottishgovernment.github.io/" # the base hostname & protocol for your site
 twitter_username: mygovscot

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Standard"
 date:   2014-09-17 14:23:54
 permalink: standard/
