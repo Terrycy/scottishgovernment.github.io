@@ -4,7 +4,7 @@ title:  "Standard"
 date:   2014-09-17 14:23:54
 permalink: standard/
 categories: documentation
-summary: The digital standard, setting the bar for digital services
+summary: The digital standard, setting the bar for digital services.
 tags: 
 - standard
 ---

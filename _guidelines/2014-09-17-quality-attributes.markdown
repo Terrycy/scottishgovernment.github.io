@@ -3,8 +3,8 @@ layout: post
 title:  "Quality attributes"
 date:   2014-09-17 14:23:54
 permalink: guidelines/quality-attributes/
-categories: jekyll update
-summary: This is the summary for a specific guide
+categories: documentation
+summary: Our quality attributes are non-functional requirements for transactional services.
 tags: 
 - quality attributes
 ---
