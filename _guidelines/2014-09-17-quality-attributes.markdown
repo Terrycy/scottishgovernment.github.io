@@ -2,9 +2,9 @@
 layout: post
 title:  "Quality attributes"
 date:   2014-09-17 14:23:54
-permalink: quality-attributes/
+permalink: guidelines/quality-attributes/
 categories: jekyll update
-summary: This is the summary for the quality attributes
+summary: This is the summary for a specific guide
 tags: 
 - quality attributes
 ---

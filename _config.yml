@@ -1,7 +1,7 @@
 # Site settings
 title: Scottish Government Online Services
-email: OSSD@scotland.gsi.gov.uk
-description: > # This website details the standards and guidelines used by the Scottish Government whilst developing the mygov.scot web site.
+email: ossd@scotland.gsi.gov.uk
+description: We provide standards & guidelines to help organisations build great digital services.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://scottishgovernment.github.io/" # the base hostname & protocol for your site
 twitter_username: mygovscot
@@ -12,7 +12,7 @@ markdown: kramdown
 
 # Collections
 collections:
-  guides:
+  guidelines:
     output: true
   principles:
     output: true

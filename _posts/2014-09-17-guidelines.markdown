@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Guides"
+title:  "Guidelines"
 date:   2014-09-17 14:23:54
-permalink: guides/
-summary: This is the summary for the guides
+permalink: guidelines/
+summary: Supporting material that will help you build great digital services
 categories:
  - documentation
 ---
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.guides %}
+    {% for post in site.guidelines %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
