@@ -2,6 +2,7 @@
 layout: post
 title:  "Guides"
 date:   2014-09-17 14:23:54
+permalink: guides/
 summary: This is the summary for the guides
 categories:
  - documentation
