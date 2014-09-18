@@ -8,7 +8,7 @@ summary: Helping you by explaining terms you'll find within the digital handbook
 
 ---
 <div class="home">
-
+<p>Helping you by explaining terms you'll find within the digital handbook</p>
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}

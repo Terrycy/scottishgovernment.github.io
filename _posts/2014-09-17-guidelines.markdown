@@ -8,7 +8,7 @@ categories:
  - documentation
 ---
 <div class="home">
-
+  <p>Supporting material that will help you build great digital services. These guidelines can help where you lack capability in a relevant area</p>
   <ul class="post-list">
     {% for post in site.guidelines %}
       <li>
