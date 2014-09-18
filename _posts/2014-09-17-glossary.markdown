@@ -4,11 +4,11 @@ title:  Glossary
 permalink: glossary/
 date:   2014-09-17 14:23:54
 categories: documentation
-summary: Helping you by explaining terms you'll find within the digital handbook.
+summary: Helping explain some of the terms you will find within the digital handbook.
 
 ---
 <div class="home">
-<p>Helping you by explaining terms you'll find within the digital handbook.</p>
+<p>Helping explain some of the terms you will find within the digital handbook.</p>
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
