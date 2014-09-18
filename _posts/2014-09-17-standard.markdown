@@ -11,7 +11,7 @@ tags:
 <div class="home">
   <p>Setting the standard for digital services. The standard is a set of requirements that a digital service must implement, unless a specific exception is made.</p>
   <ol class="post-list">
-    {% for post in site.principles %}
+    {% for post in site.standard %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
