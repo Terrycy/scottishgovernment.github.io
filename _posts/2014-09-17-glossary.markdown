@@ -4,7 +4,7 @@ title:  Glossary
 permalink: glossary/
 date:   2014-09-17 14:23:54
 categories: documentation
-summary: Helping you by explaining terms used within our guides
+summary: Helping you by explaining terms you'll find within the digital handbook
 
 ---
 <div class="home">
@@ -29,6 +29,6 @@ summary: Helping you by explaining terms used within our guides
 
 
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Subscribe to updates <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
