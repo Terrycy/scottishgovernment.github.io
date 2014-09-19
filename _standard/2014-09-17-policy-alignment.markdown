@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Agile"
+title:  "Policy alignment"
 date:   2014-09-17 14:23:54
-permalink: standard/agile/ 
+permalink: standard/policy-alignment/ 
 categories: documentation
-summary: Using agile to deliver great digital services
+summary: Aligning your transactional service with relevant Government policy.
 tags: 
-- agile
+- policy
 ---
 
 #Outcome
