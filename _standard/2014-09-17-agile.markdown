@@ -9,16 +9,12 @@ tags:
 - agile
 ---
 
-Agile methodologies can help you and your team to build leading digital services for people in Scotland.
+#Outcome
+The transactional service is aligned with and successfully realises the principles of relevant Government policy.
 
-[Agile overview](https://www.gov.uk/service-manual/agile/index.html)
-[Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
-[Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
-[Quality](https://www.gov.uk/service-manual/agile/quality.html)
-[Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
-[Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-[Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
-[While agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
-[Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
+#Action
+A policy alignment plan should be produced by the service owner describing how the service will realise the appropriate policies. 
 
-Source - [GDS Service Manual](https://www.gov.uk/service-manual/)
+#Supporting material
+- Policy alignment plan download
+- Policy context document 
