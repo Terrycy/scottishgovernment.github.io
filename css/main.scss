@@ -45,9 +45,13 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "header"
 ;
 
 ol li {
 	list-style-type: decimal;
+}
+ol.post-list li{
+  list-style-type: none;
 }
